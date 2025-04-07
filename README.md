@@ -1,4 +1,4 @@
-# 20241123_lp-practice
+# LP-practice
 
 ## lp-practice1
 (Header～ページ上部)
